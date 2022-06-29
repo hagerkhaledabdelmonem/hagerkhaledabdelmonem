@@ -1,5 +1,5 @@
-<p align='center'>
-<a title="click and click and drag" href="https://xkcd.com/1110/" target="_blank"><img src="images/wave.png" ></a>
+<p align="center">
+  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)" alt="wave">
 </p>
 
 <h2> Hi I'm Hager </h2>
