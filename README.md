@@ -1,6 +1,8 @@
 <p align="center">
-  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)" alt="wave">
+  <img width="200" src="[[http://material-bread.org/logo-shadow.svg](https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626)](https://user-images.githubusercontent.com/92521186/176456883-3d9ad7a5-caaf-4b06-beeb-8e461401efcb.gif)" alt="wave">
 </p>
+
+![waving-hand-joypixels](https://user-images.githubusercontent.com/92521186/176456883-3d9ad7a5-caaf-4b06-beeb-8e461401efcb.gif)
 
 <h2> Hi I'm Hager </h2>
 
