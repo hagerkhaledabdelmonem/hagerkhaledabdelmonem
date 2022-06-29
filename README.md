@@ -1,5 +1,5 @@
 <p align='center'>
-<a title="click and click and drag" href="https://xkcd.com/1110/" target="_blank"><img src="images/clickndrag.png" ></a>
+<a title="click and click and drag" href="https://xkcd.com/1110/" target="_blank"><img src="images/wave.png" ></a>
 </p>
 
 <h2> Hi I'm Hager </h2>
