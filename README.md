@@ -1,10 +1,5 @@
-### Hi I  👋
-
-
-
-
-Here are some ideas to get you started:
-
+                                                                        # Hi I'm Hager  👋
+                                                                        
 - 🔭 I’m currently student at computer science and information at ain shams university
 - 🌱 I’m currently learning ...
 
