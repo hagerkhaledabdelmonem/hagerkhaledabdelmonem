@@ -4,11 +4,8 @@
 
 </p>
 
-<p align="center">
-  
-  Hi I'm Hager 
+<h1 align="center"> Hi I'm Hager </h1>
 
-</p>
 
 
                                                                         
