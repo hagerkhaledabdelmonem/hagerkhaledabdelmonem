@@ -4,8 +4,12 @@
 
 </p>
 
+<p align="center">
+  
+  <h2> Hi I'm Hager </h2>
 
-<h2> Hi I'm Hager </h2>
+</p>
+
 
                                                                         
 - 🔭 I’m currently student at computer science and information at ain shams university
