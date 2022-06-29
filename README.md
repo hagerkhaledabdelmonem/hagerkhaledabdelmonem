@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  <h2> Hi I'm Hager </h2>
+  Hi I'm Hager 
 
 </p>
 
