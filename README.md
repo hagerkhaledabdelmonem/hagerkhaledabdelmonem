@@ -6,7 +6,8 @@
 ## About Me:                                                                   
 I’m currently student at computer science and information at ain shams university
 
-## What I know:
+## What I have learned <img height="30" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"> :
+
 <p align="center">
 <div align="center">
   
