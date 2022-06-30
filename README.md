@@ -4,9 +4,11 @@
 <h1 align="center"> Hi I'm Hager 👋</h1>
 
 ## About Me:                                                                   
-I’m currently student at computer science and information at ain shams university
+I’m currently student at Faculty of Computer andInformation Sciences Ain Shams University
 
-## What I have learned <img height="30" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"> :
+
+
+## What I have learned <img height="60" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"> :
 
 <p align="center">
 <div align="center">
@@ -16,6 +18,7 @@ I’m currently student at computer science and information at ain shams univers
 <img height="40" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"> 
 <img height="40" src="https://media.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif"> 
+<img height="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"> 
 
 </p>
 
