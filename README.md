@@ -1,5 +1,7 @@
-
-<h1 align="center"> Hi I'm Hager <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="100" height="150" />  </h1>
+<p align="center">
+<img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200" height="200" />
+</p>
+<h1 align="center"> Hi I'm Hager   </h1>
 
 
 
