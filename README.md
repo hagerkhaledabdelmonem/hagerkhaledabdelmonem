@@ -16,7 +16,7 @@ I’m currently student at computer science and information at ain shams univers
 <img height="40" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/92521186/176684973-42d473ff-8abf-4122-9850-891def3c5b62.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/92521186/176684973-42d473ff-8abf-4122-9850-891def3c5b62.png">
+  
   <img height="40" src="https://user-images.githubusercontent.com/92521186/176684973-42d473ff-8abf-4122-9850-891def3c5b62.png">
  
 </picture>
