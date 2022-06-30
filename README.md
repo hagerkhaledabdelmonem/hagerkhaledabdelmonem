@@ -13,20 +13,21 @@ I’m currently student at Faculty of Computer andInformation Sciences Ain Shams
 <p align="center">
 <div align="center">
   
-<img height="30" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"> 
 <img height="40" src="https://media.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif"> 
 <img height="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"> 
 <img height="40" src="https://user-images.githubusercontent.com/92521186/176692986-caea6934-a09f-4560-98fa-6e37c82eaf31.png">
+<img height="30" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+<picture>
+  <source srcset="dark-mode.png" media="(prefers-color-scheme: dark)">
+  <img src="https://user-images.githubusercontent.com/92521186/176692986-caea6934-a09f-4560-98fa-6e37c82eaf31.png">
+</picture>
+</div>
 </p>
 
-<picture>
-  
- 
- 
-</picture>
+
 
 ## GitHub stats
 
