@@ -14,16 +14,15 @@ I’m currently student at computer science and information at ain shams univers
 <img height="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"> 
-<img height="40" src="https://user-images.githubusercontent.com/92521186/176684973-42d473ff-8abf-4122-9850-891def3c5b62.png">
-
+<source media="(prefers-color-scheme: dark)" height="40" srcset="https://user-images.githubusercontent.com/92521186/176684973-42d473ff-8abf-4122-9850-891def3c5b62.png">
 
 </div>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  
+ 
+ 
 </picture>
 
 ## GitHub stats
