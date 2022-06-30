@@ -18,15 +18,15 @@ I’m currently student at computer science and information at ain shams univers
 </div>
 </p>
 
-### Funny Quote: 
-It's not a bug, It's a feature
-
 ## GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=hagerkhaledabdelmonem&show_icons=true&theme=dracula">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerkhaledabdelmonem&count_private=true&theme=dracula">
 
+
+## Funny Quote: 
+It's not a bug, It's a feature
 
 ## How to reach me: 
 
