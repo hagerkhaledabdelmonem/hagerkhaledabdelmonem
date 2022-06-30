@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" />
 </p>
 <h1 align="center"> Hi I'm Hager   </h1>
                                                                     
@@ -12,10 +12,9 @@
   - Every odd number has an “e” in it.
   - If you shuffle a deck of cards properly, it’s more than likely that the exact order of the cards you get has never been seen before in the whole history of the universe.
 
-<p align="center">
-  
-[![Hager's github stats](https://github-readme-stats.vercel.app/api?username=hagerkhaledabdelmonem&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/hagerkhaledabdelmonem/github-readme-stats)
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hagerkhaledabdelmonem&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerkhaledabdelmonem&count_private=true&theme=dracula">
+ </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagerkhaledabdelmonem)](https://github.com/hagerkhaledabdelmonem/github-readme-stats)
 
-</p>
