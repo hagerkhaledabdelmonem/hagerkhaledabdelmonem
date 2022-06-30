@@ -2,15 +2,22 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" />
 </p>
 <h1 align="center"> Hi I'm Hager   </h1>
-                                                                    
-- 🔭 I’m currently student at computer science and information at ain shams university
+## About Me:                                                                   
+- I’m currently student at computer science and information at ain shams university
+
 - 🌱 I’m currently learning ...
 
+<p align="center">
+<div align="center">
+  
+<code><img height="40" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></code> <code><img height="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+
+</div>
+</p>
 - 📫 How to reach me: ...
 
-- ⚡ Fun fact: 
-  - Every odd number has an “e” in it.
-  - If you shuffle a deck of cards properly, it’s more than likely that the exact order of the cards you get has never been seen before in the whole history of the universe.
+- Funny Quote: 
+  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hagerkhaledabdelmonem&show_icons=true&theme=dracula">
