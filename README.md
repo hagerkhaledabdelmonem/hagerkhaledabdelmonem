@@ -1,11 +1,8 @@
 <p align="center">
-<img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200" height="200" />
+<img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300" height="300" />
 </p>
 <h1 align="center"> Hi I'm Hager   </h1>
-
-
-
-                                                                        
+                                                                    
 - 🔭 I’m currently student at computer science and information at ain shams university
 - 🌱 I’m currently learning ...
 
