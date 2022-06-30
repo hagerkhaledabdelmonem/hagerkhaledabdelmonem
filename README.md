@@ -8,7 +8,7 @@ I’m currently student at Faculty of Computer andInformation Sciences Ain Shams
 
 
 
-## What I have learned <img height="60" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"> :
+## What I have learned :
 
 <p align="center">
 <div align="center">
