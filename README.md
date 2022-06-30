@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="300" />
 </p>
-<h1 align="center"> Hi I'm Hager   </h1>
+<h1 align="center"> Hi I'm Hager 👋</h1>
 
 ## About Me:                                                                   
 I’m currently student at computer science and information at ain shams university
@@ -14,7 +14,7 @@ I’m currently student at computer science and information at ain shams univers
 <img height="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 <img height="40" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"> 
-<img height="40" src="https://github.com/arduino/Arduino">
+<img height="40" src="https://www.g2.com/products/arduino-ide/reviews">
 
 
 </div>
