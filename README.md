@@ -5,8 +5,7 @@
 ## About Me:                                                                   
 - I’m currently student at computer science and information at ain shams university
 
-- 🌱 I’m currently learning ...
-
+## What I know:
 <p align="center">
 <div align="center">
   
@@ -17,16 +16,16 @@
 
 </div>
 </p>
-- 📫 How to reach me: ...
 
-- Funny Quote: 
-  
+### Funny Quote: 
+It's not a bug, It's a feature
 
-<p align="center">
+## GitHub stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=hagerkhaledabdelmonem&show_icons=true&theme=dracula">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerkhaledabdelmonem&count_private=true&theme=dracula">
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerkhaledabdelmonem&count_private=true&theme=dracula">
+
+
+## How to reach me: 
 
