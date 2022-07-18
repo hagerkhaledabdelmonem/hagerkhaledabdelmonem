@@ -38,8 +38,5 @@ I’m currently student at Faculty of Computer andInformation Sciences Ain Shams
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerkhaledabdelmonem&count_private=true&theme=dracula">
 
 
-## Funny Quote: 
-It's not a bug, It's a feature
 
-## How to reach me: 
 
