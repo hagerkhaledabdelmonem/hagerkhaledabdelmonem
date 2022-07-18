@@ -33,9 +33,11 @@ I’m currently student at Faculty of Computer and Information Sciences Ain Sham
 
 ## GitHub stats
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hagerkhaledabdelmonem&show_icons=true&theme=dracula">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagerkhaledabdelmonem&count_private=true&theme=dracula">
+</p>
 
 
 
