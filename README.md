@@ -4,7 +4,7 @@
 <h1 align="center"> Hi I'm Hager 👋</h1>
 
 ## About Me:                                                                   
-I’m currently student at Faculty of Computer and Information Sciences Ain Shams University
+Graduate from Faculty of Computer and Information Sciences Ain Shams University
 
 
 
