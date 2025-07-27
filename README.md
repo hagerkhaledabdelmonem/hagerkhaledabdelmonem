@@ -1,40 +1,63 @@
-<p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="300" />
+<h1 align="center">Hi 👋, I'm Hager</h1>
+<h3 align="center">Business Analyst Trainee · FCIS ASU Graduate · Data Science | Gen AI | Machine Learning | Data Analysis</h3>
+
+---
+
+### 🎓 Education
+
+**Ain Shams University (ASU)**  
+*Bachelor of Computer and Information Sciences*  
+**Major:** Scientific Computing  
+📍 Cairo, Egypt  
+🗓️ Sep 2020 – Jun 2024
+
+---
+
+### 📚 Relevant Coursework
+
+**Mathematics & Statistics**  
+Calculus, Probability & Statistics, Statistical Analysis
+
+**Programming & Software Engineering**  
+Object-Oriented Programming, Data Structures, Concepts of Programming Languages, Software Engineering, System Design & Analysis
+
+**Computer Science Fundamentals**  
+Operating Systems, Computer Organization & Architecture, Analysis and Design of Algorithms, Computer Networks, Human Computer Interfaces
+
+**Databases & Cloud**  
+Database Management Systems, Cloud Computing, High Performance Computing
+
+**AI & Machine Learning**  
+Artificial Intelligence, Neural Networks & Deep Learning, Natural Language Processing, Computer Vision, Modelling & Simulation
+
+**Security & Other Topics**  
+Computer and Network Security, Digital Signal Processing
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
-<h1 align="center"> Hi I'm Hager 👋</h1>
 
-## About Me:                                                                   
-Graduate from Faculty of Computer and Information Sciences Ain Shams University
+---
 
+### 📫 Reach Me On:
+- [LinkedIn](https://www.linkedin.com/in/hagerkhaled)
+- [Email](mailto:hagerkhaledabdelmonem@gmail.com)
 
+---
 
-## What I have learned :
-
+### 📈 GitHub Stats
 <p align="center">
-<div align="center">
-  
-<img height="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
-<img height="40" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-<img height="40" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
-<img height="40" src="https://github.com/hagerkhaledabdelmonem/hagerkhaledabdelmonem/assets/92521186/e4281f09-2379-4527-b32b-4854c8602dc5">
-<img height="40" src="https://github.com/hagerkhaledabdelmonem/hagerkhaledabdelmonem/assets/92521186/2e263e93-f777-4c62-9749-5495b081372d">
-<img height="40" src="https://media.giphy.com/media/a7Ik5hjrFQuxiPKFZO/giphy.gif"> 
-<img height="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"> 
-<img height="40" src="https://user-images.githubusercontent.com/92521186/176697452-45bea0cb-54cd-49fc-86f7-811b1ae94201.jpg">
-<img height="40" src="https://user-images.githubusercontent.com/92521186/176696414-01c7fc37-636a-4bf4-82ec-100ec0c43b57.png">
-<img height="40" src="https://user-images.githubusercontent.com/92521186/179507485-95e242a9-e8cc-439f-8cd3-7ee3a6364bf5.jpg">
-<img height="30" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=hagerkhaled&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=hagerkhaled&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
