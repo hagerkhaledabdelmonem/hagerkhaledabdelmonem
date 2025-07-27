@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Hager Khaled — turning data into decisions!</h1>
+<h1 align="center">Hey there 👋 I'm Hager Khaled </h1>
 <h3 align="center">🎓 FCIS ASU Graduate | 🤖 Data Science | 🧠 Gen AI | 📊 Machine Learning | 📈 Business Analysis</h3>
 
 ---
