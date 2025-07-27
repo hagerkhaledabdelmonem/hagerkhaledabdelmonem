@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hager</h1>
-<h3 align="center">Business Analyst Trainee · FCIS ASU Graduate · Data Science | Gen AI | Machine Learning | Data Analysis</h3>
+<h1 align="center">Hey there 👋 I'm Hager Khaled — turning data into decisions!</h1>
+<h3 align="center">🎓 FCIS ASU Graduate | 🤖 Data Science | 🧠 Gen AI | 📊 Machine Learning | 📈 Business Analysis</h3>
 
 ---
 
