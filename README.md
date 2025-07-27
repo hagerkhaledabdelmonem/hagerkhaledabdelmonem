@@ -25,13 +25,13 @@ Object-Oriented Programming, Data Structures, Concepts of Programming Languages,
 Operating Systems, Computer Organization & Architecture, Analysis and Design of Algorithms, Computer Networks, Human Computer Interfaces
 
 **Databases & Cloud**  
-Database Management Systems, Cloud Computing, High Performance Computing
+Database Management Systems, Cloud Computing
 
 **AI & Machine Learning**  
-Artificial Intelligence, Neural Networks & Deep Learning, Natural Language Processing, Computer Vision, Modelling & Simulation
+Artificial Intelligence, Neural Networks & Deep Learning, Natural Language Processing, Computer Vision, Digital Signal Processing, High Performance Computing
 
 **Security & Other Topics**  
-Computer and Network Security, Digital Signal Processing
+Computer and Network Security, Modelling & Simulation
 
 ---
 
