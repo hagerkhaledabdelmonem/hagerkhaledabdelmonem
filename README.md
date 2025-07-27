@@ -5,11 +5,11 @@
 
 ### 🎓 Education
 
-**Ain Shams University (ASU)**  
-*Bachelor of Computer and Information Sciences*  
+**Bachelor of Computer and Information Sciences**  
+**Ain Shams University (ASU)** — *Sep 2020 – Jun 2024*  
 **Major:** Scientific Computing  
-📍 Cairo, Egypt  
-🗓️ Sep 2020 – Jun 2024
+**Cumulative GPA:** B+ with Honours
+
 
 ---
 
